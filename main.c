@@ -1160,9 +1160,8 @@ void intro()
         printf("\xdb");
     }
     printf("\n\n\n\tMembers:");
-    printf("\n\n\tShivam Jha\n\t1900290120108\n\tComputer Science");
-    printf("\n\n\tRitu Yadav\n\t1900290120092\n\tComputer Science");
-    printf("\n\n\tRupal Garg\n\t1900290120093\n\tComputer Science");
+    printf("\n\n\tname\n\tRoll Number\n\tBranch");
+    printf("\n\n\tname\n\tRoll Number\n\tBranch");
     printf("\n\n\n\tPlease Enter any key to continue");
     for(i=0;i<5;i++)
     {
